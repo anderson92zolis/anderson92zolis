@@ -3,7 +3,9 @@
 <!--
 **anderson92zolis/anderson92zolis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Passionate about the intersection of chemical engineering and coding, I am dedicated to continuous learning and refining my programming abilities.
+
+<p>Passionate about the intersection of chemical engineering and coding, I am dedicated to continuous learning and refining my programming abilities.</p>
+
 
 Here are some ideas to get you started:
 
