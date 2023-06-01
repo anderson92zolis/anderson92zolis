@@ -1,12 +1,12 @@
 ### Hi there, Nice to see you👋
 
-I am a Chemical Engineer with a passion for Backend Programer.  I am dedicated to continuous learning and refining my programming abilities.
+I am a Chemical Engineer with a passion for Backend Developer.  I am dedicated to continuous learning and refining my programming abilities.
 
 - 🔭 I’m currently working on something cool 😉
 - 🌱 I’m currently learning Java & Spring Framework.
 - 💬 Ask me about Java & Spring Framework,  Microsft Excel  & Matlab.
 - 😄 Pronouns: he/him.
-- ⚡ Fun fact: I ❤️ 🐶s and Plating Sanbox games([(https://www.sandbox.game/en/)])
+- ⚡ Fun fact: I ❤️ 🐶s and Playing Sandbox games (![Sandbox Games](https://raw.githubusercontent.com/andreiconex/tech-logos/master/sandbox-games.svg))
 
 
 ## Skills
@@ -25,7 +25,8 @@ I am a Chemical Engineer with a passion for Backend Programer.  I am dedicated t
 
 ## Contact
 
-You can reach me via email at [azolis92@hotmail.es](mailto:azolis92@hotmail.es) or connect with me on  <a href="https://www.linkedin.com/in/anderson-zolis-120b96124/" target="blank"><img align="center" src="https://commons.wikimedia.org/wiki/File:LinkedIn_logo_initials.png" alt="ANDERSON ZOLIS" height="30" width="40" /></a>
+You can reach me via email at [azolis92@hotmail.es](mailto:azolis92@hotmail.es) or connect with me on Linkedin  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square&logoColor=white&link=https://www.linkedin.com/in/anderson-zolis-120b96124/)](https://www.linkedin.com/in/anderson-zolis-120b96124/).
+
 Let's connect and collaborate!
 
 <!--
