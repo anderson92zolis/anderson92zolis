@@ -21,8 +21,8 @@ I am a Chemical Engineer with a passion for Backend Developer.  I am dedicated t
 
 ## Projects
 
-- [Project 1]([link-to-project](https://github.com/PauSansa/DevelopersTeam)): project in a group of a Florist Shop - Catalog and Purchase Ticket Management.
-- [Project 2]([link-to-project](https://github.com/anderson92zolis/DiceGameNew)): Project of Dice game with MySql and MongoDB database, JWT Security, and Junit testing and Mockito.
+- [Project 1: Florist Shop](https://github.com/PauSansa/DevelopersTeam): project in a group of a Florist Shop - Catalog and Purchase Ticket Management.
+- [Project 2: Dice Game](https://github.com/anderson92zolis/DiceGameNew): Project of Dice game with MySql and MongoDB database, JWT Security, and Junit testing and Mockito.
 
 ## Contact
 
