@@ -1,10 +1,18 @@
 ### Hi there, Nice to see you👋
 
+I am a [Chemical Engineeer] with a passion for [Backend Programer].
+
+## Skills
+
+- Skill 1
+- Skill 2
+- Skill 3
+
 <!--
 **anderson92zolis/anderson92zolis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
-<p>Passionate about the intersection of chemical engineering and coding, I am dedicated to continuous learning and refining my programming abilities.</p>
+Passionate about the intersection of chemical engineering and coding, I am dedicated to continuous learning and refining my programming abilities.
 
 
 Here are some ideas to get you started:
