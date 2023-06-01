@@ -1,11 +1,10 @@
 ### Hi there, Nice to see you👋
 
-I am a [Chemical Engineeer] with a passion for [Backend Programer].  I am dedicated to continuous learning and refining my programming abilities.
+I am a Chemical Engineer with a passion for Backend Programer.  I am dedicated to continuous learning and refining my programming abilities.
 
 - 🔭 I’m currently working on something cool 😉
-- 🌱 I’m currently learning Java & Spring Boot.
-
-- 💬 Ask me about Java & Spring Framework,  Microsft Excel, Matlab.
+- 🌱 I’m currently learning Java & Spring Framework.
+- 💬 Ask me about Java & Spring Framework,  Microsft Excel  & Matlab.
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: I ❤️ 🐶s and Plating Sanbox games([(https://www.sandbox.game/en/)])
 
@@ -26,7 +25,9 @@ I am a [Chemical Engineeer] with a passion for [Backend Programer].  I am dedica
 
 ## Contact
 
-You can reach me via email at [azolis92@hotmail.es](mailto:azolis92@hotmail.es) or connect with me on ([link-to-linkedin](https://www.linkedin.com/in/anderson-zolis-120b96124/)).
+<a href="https://www.linkedin.com/in/anderson-zolis-120b96124/" target="blank"><img align="center" src="https://commons.wikimedia.org/wiki/File:LinkedIn_logo_initials.png" alt="gautamkrishnar" height="30" width="40" /></a>
+
+You can reach me via email at [azolis92@hotmail.es](mailto:azolis92@hotmail.es) or connect with me on ([link-to-linkedin]()).
 
 Let's connect and collaborate!
 
