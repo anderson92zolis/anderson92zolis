@@ -25,10 +25,7 @@ I am a Chemical Engineer with a passion for Backend Programer.  I am dedicated t
 
 ## Contact
 
-<a href="https://www.linkedin.com/in/anderson-zolis-120b96124/" target="blank"><img align="center" src="https://commons.wikimedia.org/wiki/File:LinkedIn_logo_initials.png" alt="gautamkrishnar" height="30" width="40" /></a>
-
-You can reach me via email at [azolis92@hotmail.es](mailto:azolis92@hotmail.es) or connect with me on ([link-to-linkedin]()).
-
+You can reach me via email at [azolis92@hotmail.es](mailto:azolis92@hotmail.es) or connect with me on  <a href="https://www.linkedin.com/in/anderson-zolis-120b96124/" target="blank"><img align="center" src="https://commons.wikimedia.org/wiki/File:LinkedIn_logo_initials.png" alt="ANDERSON ZOLIS" height="30" width="40" /></a>
 Let's connect and collaborate!
 
 <!--
