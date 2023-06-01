@@ -4,7 +4,7 @@ I am a Chemical Engineer with a passion for Backend Developer.  I am dedicated t
 
 - 🔭 I’m currently working on something cool 😉
 - 🌱 I’m currently learning Java & Spring Framework.
-- 💬 Ask me about Java & Spring Framework,  Microsft Excel  & Matlab.
+- 💬 Ask me about Java & Spring Framework,  Microsft office package  & Matlab.
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: I ❤️ 🐶s and playing [Sandbox games](https://www.sandbox.game/en/)
 
