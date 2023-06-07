@@ -26,7 +26,7 @@ I am a Chemical Engineer with a passion for Backend Developer.  I am dedicated t
 
 ## Contact
 
-You can reach me via email at [azolis92@hotmail.es](mailto:azolis92@hotmail.es) or connect with me on Linkedin  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square&logoColor=white&link=https://www.linkedin.com/in/anderson-zolis-120b96124/)](https://www.linkedin.com/in/anderson-zolis-120b96124/).
+You can reach me via email at [azolis92@hotmail.es](mailto:azolis92@hotmail.es) or connect with me on Linkedin  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square&logoColor=white&link=https://www.linkedin.com/in/anderson-zolis-120b96124/)](https://www.linkedin.com/in/anderson-zolis-ch-120b96124/?trk=public-profile-join-page).
 
 Let's connect and collaborate!
 
