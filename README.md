@@ -4,13 +4,14 @@ I am a Chemical Engineer with a passion for Backend Developer.  I am dedicated t
 
 - 🔭 I’m currently working on something cool 😉
 - 🌱 I’m currently learning Java & Spring Framework.
+- 🌱 Web Development Bootcamp.
 - 💬 Ask me about Java & Spring Framework,  Microsft office package  & Matlab.
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: I ❤️ 🐶s and playing [Sandbox games](https://www.sandbox.game/en/)
 
 
 ## Skills
-
+    
     Programming Languages: Java, Python. 
     Backend Development: Java & Spring Framework.
     Database Technologies: MySQL & MongoDB.
@@ -19,11 +20,14 @@ I am a Chemical Engineer with a passion for Backend Developer.  I am dedicated t
     Other Tools and Frameworks: IntelliJ IDEA & Eclipse.
     API Testing and Documentation: Postman & Swagger (OpenAPI)
 
+     HTML, CSS, Javascript, Node, React, MongoDB, Web3 and DApps
+
 ## Projects
 
 - [Project 1: Florist Shop](https://github.com/PauSansa/DevelopersTeam): project in a group of a Florist Shop - Catalog and Purchase Ticket Management.
 - [Project 2: Dice Game](https://github.com/anderson92zolis/DiceGameNew): Project of Dice game with MySql and MongoDB database, JWT Security, and Junit testing and Mockito.
-
+- [Project 3: Ita challenges BCN](https://github.com/IT-Academy-BCN/ita-challenges-backend): Challenges to practice coding, Java & Spring boot, Consul, Docker, Microservices, Scrum methodology.
+  
 ## Contact
 
 You can reach me via email at [azolis92@hotmail.es](mailto:azolis92@hotmail.es) or connect with me on Linkedin  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square&logoColor=white&link=https://www.linkedin.com/in/anderson-zolis-120b96124/)](https://www.linkedin.com/in/anderson-zolis-ch-120b96124/?trk=public-profile-join-page).
