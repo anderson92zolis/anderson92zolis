@@ -14,13 +14,15 @@ I am a Chemical Engineer with a passion for Backend Developer.  I am dedicated t
     
     Programming Languages: Java, Python. 
     Backend Development: Java & Spring Framework.
+    Systems management: Consul.
+    Platform and toolset: Docker.
     Database Technologies: MySQL & MongoDB.
     Version Control: Git & GitHub.
-    Testing and QA: JUnit Testing & Mockito.
+    Testing and QA: Reactive Testing, JUnit Testing & Mockito.
     Other Tools and Frameworks: IntelliJ IDEA & Eclipse.
     API Testing and Documentation: Postman & Swagger (OpenAPI)
 
-     HTML, CSS, Javascript, Node, React, MongoDB, Web3 and DApps
+    HTML, CSS, Javascript, Node, React, MongoDB, Web3 and DApps
 
 ## Projects
 
