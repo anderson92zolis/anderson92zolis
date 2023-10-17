@@ -5,7 +5,7 @@ I am a Chemical Engineer with a passion for Backend Developer.  I am dedicated t
 - 🔭 I’m currently working on something cool 😉
 - 🌱 I’m currently learning Java & Spring Framework.
 - 🌱 Web Development Bootcamp.
-- 💬 Ask me about Java & Spring Framework,  Microsft office package  & Matlab.
+- 💬 Ask me about Java & Spring Framework,  Microsft office package.
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: I ❤️ 🐶s and playing [Sandbox games](https://www.sandbox.game/en/)
 
@@ -16,13 +16,16 @@ I am a Chemical Engineer with a passion for Backend Developer.  I am dedicated t
     Backend Development: Java & Spring Framework.
     Systems management: Consul.
     Platform and toolset: Docker.
-    Database Technologies: MySQL & MongoDB.
+    Database Technologies: Postgress, MySQL & MongoDB.
     Version Control: Git & GitHub.
     Testing and QA: Reactive Testing, JUnit Testing & Mockito.
     Other Tools and Frameworks: IntelliJ IDEA & Eclipse.
     API Testing and Documentation: Postman & Swagger (OpenAPI)
 
-    HTML, CSS, Javascript, Node, React, MongoDB, Web3 and DApps
+    Agile methodology: SCRUM
+
+    Currently learning: 
+        HTML, CSS, Javascript, Node, React, etc....
 
 ## Projects
 
@@ -30,6 +33,7 @@ I am a Chemical Engineer with a passion for Backend Developer.  I am dedicated t
 - [Project 2: Dice Game](https://github.com/anderson92zolis/DiceGameNew): Project of Dice game with MySql and MongoDB database, JWT Security, and Junit testing and Mockito.
 - [Project 3: Ita challenges BCN](https://github.com/IT-Academy-BCN/ita-challenges-backend): Intership It Academy based in a web of Challenges, Java & Spring boot, Consul, Docker, Microservices, Scrum methodology.
 - [Project 4: Microservices with Spring boot 3](https://github.com/anderson92zolis/AliMicroservice): Explore essential concepts such as API Gateway, Config Server, Discovery Server, and hands-on implementation of two real-world microservices, Student and School.
+- [Project 5: Microservice architecture](https://github.com/anderson92zolis/microservicesAmigosCode): This project provides a comprehensive overview of the microservices architecture and how to build microservices using various technologies, including Docker, Eureka, OpenFeign, and Zipkin. and implementing of 3 real-world microservices, Clients, Customer, Fraud, Notification and Eureka-server.
   
 ## Contact
 
