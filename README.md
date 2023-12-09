@@ -8,7 +8,7 @@ I am a Chemical Engineer with a passion for Backend Developer.  I am dedicated t
 - 💬 Ask me about Java & Spring Framework,  Microsft office package.
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: I ❤️ 🐶s and playing [Sandbox games](https://www.sandbox.game/en/)
-
+<br />
 
 ## Skills
     
@@ -26,8 +26,9 @@ I am a Chemical Engineer with a passion for Backend Developer.  I am dedicated t
 
     Currently learning: 
         HTML, CSS, Javascript, Node, React, etc....
+<br />
 
-## Projects
+## Projects 
 
 - [Project 1: Florist Shop](https://github.com/PauSansa/DevelopersTeam): Project in a group of a Florist Shop - Catalog and Purchase Ticket Management.
 - [Project 2: Dice Game](https://github.com/anderson92zolis/DiceGameNew): Project of Dice game with MySql and MongoDB database, JWT Security, and Junit testing and Mockito.
@@ -39,10 +40,16 @@ I am a Chemical Engineer with a passion for Backend Developer.  I am dedicated t
 - [Project 8: Microservices with Spring Boot to e-commerce platform](https://github.com/anderson92zolis/ecommerceChallenge): You are tasked with designing a microservices architecture for an e-commerce platform. The platform should handle product listings, user accounts, order processing, and payment processing. Each of these functionalities should be implemented as separate microservices.
 - [Project 9: Web Application Development for API Clean Validation](https://github.com/anderson92zolis/pharmaIndustryProject): A new web application is being developed to enhance efficiency and compliance with regulations in API "Active Pharmaceutical Ingredients" cleaning validation. The application will allow users to perform automatic and manual verifications of API cleanliness, ensuring they meet established standards.
 
+##  React Projects
+
+- [Project 1:  Keeper App](https://github.com/anderson92zolis/react_p1_keeper_App): The Keeper App is a simple and intuitive note-taking application built using React.
+<br />
+
+
 ## 🏆🥇 Hackathons
 
 ![Nasa Challenge](https://github.com/anderson92zolis/anderson92zolis/blob/main/first%20place%20Nasa%20challenge.jpg)
-
+<br />
 ## Contact
 
 You can reach me via email at [azolis92@hotmail.es](mailto:azolis92@hotmail.es) or connect with me on Linkedin  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square&logoColor=white&link=https://www.linkedin.com/in/anderson-zolis-120b96124/)](https://www.linkedin.com/in/anderson-zolis-ch-120b96124/?trk=public-profile-join-page).
