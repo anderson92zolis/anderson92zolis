@@ -28,7 +28,7 @@ I am a Chemical Engineer with a passion for Backend Developer.  I am dedicated t
         HTML, CSS, Javascript, Node, React, etc....
 <br />
 
-## Projects 
+## Projects with Java  & Spring Frameworks 
 
 - [Project 1: Florist Shop](https://github.com/PauSansa/DevelopersTeam): Project in a group of a Florist Shop - Catalog and Purchase Ticket Management.
 - [Project 2: Dice Game](https://github.com/anderson92zolis/DiceGameNew): Project of Dice game with MySql and MongoDB database, JWT Security, and Junit testing and Mockito.
