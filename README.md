@@ -54,6 +54,7 @@ I am a Chemical Engineer with a passion for Backend Developer.  I am dedicated t
 ![Nasa Challenge](https://github.com/anderson92zolis/anderson92zolis/blob/main/first%20place%20Nasa%20challenge.jpg)
 - [Project 1: NasaSpaceAppsChallenge](https://github.com/anderson92zolis/NasaSpaceAppsChallenge): We won the hackaton of NasaSpaceAppsChallenge 2023 in Barcelona with our team. The poject about is -> Phytoplankton Adventure is an exciting app that immerses you in the fascinating world of phytoplankton. In this game, you take on the role of a virtual phytoplankton keeper, exploring its growth and learning about its essential role in the oceans. You will also discover how scientists study phytoplankton from space and their impact on the balance of the oceans. his project was created by the Galactic Space Coders team as part of the NASA International Space Apps Challenge, with the aim of educating and raising awareness about the importance of phytoplankton, the oceans and climate change.
 <br />
+
 ## Contact
 
 You can reach me via email at [azolis92@hotmail.es](mailto:azolis92@hotmail.es) or connect with me on Linkedin  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square&logoColor=white&link=https://www.linkedin.com/in/anderson-zolis-120b96124/)](https://www.linkedin.com/in/anderson-zolis-ch-120b96124/?trk=public-profile-join-page).
