@@ -2,10 +2,11 @@
 
 Passionate Change Agent for digital transformation and backenddeveloper with Java & Spring Framework with experience in chemicalengineering and quality assurance in the pharmaceutical industry.Currently, I am dedicated to programming and digital transformation whereI seek to expand my knowledge and skills, always committed toexcellence, innovation and professional growth.
 
-- 🔭 I’m currently working on something cool 😉
-- 🌱 I’m currently learning Java & Spring Framework.
-- 🌱 Web Development Bootcamp.
-- 💬 Ask me about Java & Spring Framework,  Microsft office package.
+- 🔭 I’m currently working on something cool ....😉
+- 🌱 I’m currently learning Java & Spring Framework at It Academy.
+- 🌱 I'm creating amazing projects.
+- 🌱 Web Development applications.
+- 💬 Ask me about Java & Spring Framework, Microservices Architecture,  Microsoft office package.
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: I ❤️ 🐶s and playing [Sandbox games](https://www.sandbox.game/en/)
 <br />
@@ -14,7 +15,8 @@ Passionate Change Agent for digital transformation and backenddeveloper with Jav
     
     Programming Languages: Java, Python. 
     Backend Development: Java & Spring Framework.
-    Systems management: Consul.
+    Frontend Development: React js.
+    Systems management: Consul, Eureka Server.
     Platform and toolset: Docker.
     Database Technologies: Postgress, MySQL & MongoDB.
     Version Control: Git & GitHub.
