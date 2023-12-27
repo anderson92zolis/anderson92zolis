@@ -1,6 +1,6 @@
 ### Hi there, Nice to see you👋
 
-I am a Chemical Engineer with a passion for Backend Developer.  I am dedicated to continuous learning and refining my programming abilities.
+Passionate Change Agent for digital transformation and backenddeveloper with Java & Spring Framework with experience in chemicalengineering and quality assurance in the pharmaceutical industry.Currently, I am dedicated to programming and digital transformation whereI seek to expand my knowledge and skills, always committed toexcellence, innovation and professional growth.
 
 - 🔭 I’m currently working on something cool 😉
 - 🌱 I’m currently learning Java & Spring Framework.
