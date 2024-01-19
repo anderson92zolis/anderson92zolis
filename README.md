@@ -30,16 +30,18 @@ Passionate Change Agent for digital transformation and backenddeveloper with Jav
         HTML, CSS, Javascript, Node, React, etc....
 <br />
 
-## Projects with Java  & Spring Frameworks 
+## Projects with Java  & Spring Frameworks
 
-- [Project 1: Florist Shop](https://github.com/PauSansa/DevelopersTeam): Project in a group of a Florist Shop - Catalog and Purchase Ticket Management.
-- [Project 2: Dice Game](https://github.com/anderson92zolis/DiceGameNew): Project of Dice game with MySql and MongoDB database, JWT Security, and Junit testing and Mockito.
-- [Project 3: Ita challenges BCN](https://github.com/IT-Academy-BCN/ita-challenges-backend): Intership It Academy based in a web of Challenges, Java & Spring boot, Consul, Docker, Microservices, Scrum methodology.
-- [Project 4: Students & Schools Microservices architecture with Spring boot 3 ](https://github.com/anderson92zolis/AliMicroservice): Explore essential concepts such as API Gateway, Config Server, Discovery Server, and hands-on implementation of two real-world microservices, Student and School.
-- [Project 5: Customers & Frauds Microservices architecture](https://github.com/anderson92zolis/microservicesAmigosCode): This project provides a comprehensive overview of the microservices architecture and how to build microservices using various technologies, including Docker, Eureka, OpenFeign, and Zipkin. and implementing of 3 real-world microservices, Clients, Customer, Fraud, Notification and Eureka-server.
-- [Project 6: Shopping microservices](https://github.com/anderson92zolis/MicorserviciosAplicaci-nEscalable): Design and implement several independent microservices that will work together to form a functional system. We will explore key concepts such as modularity, business logic decomposition and communication between microservices. In addition, we will show you how to take advantage of Spring Boot features, such as dependency injection and automatic configuration management, to streamline development and improve the efficiency of your application.
-- [Project 7: Microservices with Spring Boot to e-commerce platform](https://github.com/anderson92zolis/ecommerceChallenge): You are tasked with designing a microservices architecture for an e-commerce platform. The platform should handle product listings, user accounts, order processing, and payment processing. Each of these functionalities should be implemented as separate microservices.
-- [Project 8: Web Application Development for API Clean Validation](https://github.com/anderson92zolis/pharmaIndustryProject): A new web application is being developed to enhance efficiency and compliance with regulations in API "Active Pharmaceutical Ingredients" cleaning validation. The application will allow users to perform automatic and manual verifications of API cleanliness, ensuring they meet established standards.
+- [Project 1: Microservices with Spring Boot to e-commerce platform](https://github.com/anderson92zolis/ecommerceChallenge): You are tasked with designing a microservices architecture for an e-commerce platform. The platform should handle product listings, user accounts, order processing, and payment processing. Each of these functionalities should be implemented as separate microservices.
+- [Project 2: Web Application Development for API Clean Validation](https://github.com/anderson92zolis/pharmaIndustryProject): A new web application is being developed to enhance efficiency and compliance with regulations in API "Active Pharmaceutical Ingredients" cleaning validation. The application will allow users to perform automatic and manual verifications of API cleanliness, ensuring they meet established standards.
+- [Project 3: Florist Shop](https://github.com/PauSansa/DevelopersTeam): Project in a group of a Florist Shop - Catalog and Purchase Ticket Management.
+- [Project 4: Dice Game](https://github.com/anderson92zolis/DiceGameNew): Project of Dice game with MySql and MongoDB database, JWT Security, and Junit testing and Mockito.
+- [Project 5: Ita challenges BCN](https://github.com/IT-Academy-BCN/ita-challenges-backend): Intership It Academy based in a web of Challenges, Java & Spring boot, Consul, Docker, Microservices, Scrum methodology.
+- [Project 6: Students & Schools Microservices architecture with Spring boot 3 ](https://github.com/anderson92zolis/AliMicroservice): Explore essential concepts such as API Gateway, Config Server, Discovery Server, and hands-on implementation of two real-world microservices, Student and School.
+- [Project 7: Customers & Frauds Microservices architecture](https://github.com/anderson92zolis/microservicesAmigosCode): This project provides a comprehensive overview of the microservices architecture and how to build microservices using various technologies, including Docker, Eureka, OpenFeign, and Zipkin. and implementing of 3 real-world microservices, Clients, Customer, Fraud, Notification and Eureka-server.
+- [Project 8: Shopping microservices](https://github.com/anderson92zolis/MicorserviciosAplicaci-nEscalable): Design and implement several independent microservices that will work together to form a functional system. We will explore key concepts such as modularity, business logic decomposition and communication between microservices. In addition, we will show you how to take advantage of Spring Boot features, such as dependency injection and automatic configuration management, to streamline development and improve the efficiency of your application.
+
+
 
 ##  React Projects
 
