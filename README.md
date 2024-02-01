@@ -53,9 +53,9 @@ Passionate Change Agent for digital transformation and backenddeveloper with Jav
 
 <br />
 
-##  React self-study in IT Academy
+##  React in IT Academy
 
-- [Project -->:  Keeper App](https://github.com/anderson92zolis/react_p1_keeper_App): S1.1. HTML i CSS amb Flex: Layout that must work both on desktop, mobile and tablet.
+- [S1.1. HTML i CSS amb Flex](https://github.com/anderson92zolis/Tasca_S1.1_Layout): S1.1. HTML i CSS amb Flex: Layout that must work both on desktop, mobile and tablet.
 
 <br />
 
