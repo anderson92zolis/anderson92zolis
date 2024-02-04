@@ -1,9 +1,8 @@
-### Hi there, Nice to see you👋
+## Hi there, Nice to see you👋
 
-Passionate Change Agent for digital transformation and backenddeveloper with Java & Spring Framework with experience in chemicalengineering and quality assurance in the pharmaceutical industry.Currently, I am dedicated to programming and digital transformation whereI seek to expand my knowledge and skills, always committed toexcellence, innovation and professional growth.
+Passionate backend developer with experience in chemical engineering and quality assurance in the pharmaceutical industry. Currently, I am dedicated to programming and digital transformation where I seek to expand my knowledge and skills, always committed to excellence, innovation and professional growth.
 
-- 🔭 I’m currently working on something cool ....😉
-- 🌱 I’m currently learning Java & Spring Framework at It Academy.
+- 🌱 I’m currently improving my skills like developer and  working on something cool ....😉
 - 🌱 I'm creating amazing projects.
 - 🌱 Web Development applications.
 - 💬 Ask me about Java & Spring Framework, Microservices Architecture,  Microsoft office package.
@@ -11,24 +10,73 @@ Passionate Change Agent for digital transformation and backenddeveloper with Jav
 - ⚡ Fun fact: I ❤️ 🐶s and playing [Sandbox games](https://www.sandbox.game/en/)
 <br />
 
-## Skills
-    
-    Programming Languages: Java, Python. 
-    Backend Development: Java & Spring Framework.
-    Frontend Development: React js.
-    Systems management: Consul, Eureka Server.
-    Platform and toolset: Docker.
-    Database Technologies: Postgress, MySQL & MongoDB.
-    Version Control: Git & GitHub.
-    Testing and QA: Reactive Testing, JUnit Testing & Mockito.
-    Other Tools and Frameworks: IntelliJ IDEA & Eclipse.
-    API Testing and Documentation: Postman & Swagger (OpenAPI)
+## Technologies Used
 
-    Agile methodology: SCRUM
+### Programming Languages
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-    Currently learning: 
-        HTML, CSS, Javascript, Node, React, etc....
+### Backend Development
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Spring Framework](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
+### Frontend Development
+![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+
+### Systems Management
+![Consul](https://img.shields.io/badge/Consul-CA2171?style=for-the-badge&logo=consul&logoColor=white)
+![Eureka Server](https://img.shields.io/badge/Eureka-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
+### Platform and Toolset
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### Database Technologies
+![Postgres](https://img.shields.io/badge/Postgres-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Version Control
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### Testing and QA
+![Reactive Testing](https://img.shields.io/badge/Reactive_Testing-FF4444?style=for-the-badge&logo=junit5&logoColor=white)
+![JUnit Testing](https://img.shields.io/badge/JUnit_Testing-25A162?style=for-the-badge&logo=junit&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-8A8A8A?style=for-the-badge&logo=mockito&logoColor=white)
+
+### Other Tools and Frameworks
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+
+### API Testing and Documentation
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+
+### Agile Methodology
+![SCRUM](https://img.shields.io/badge/SCRUM-6DB33F?style=for-the-badge&logo=agile&logoColor=white)
+
+
+## Learning Journey
+Currently, I am expanding my skills in the following areas:
+
+![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+Feel free to explore the repository to learn more about the project and the technologies used. Happy coding!
+
 <br />
+
+
+
+
+
+
+
+
+
 
 ## Projects with Java  & Spring Frameworks
 
