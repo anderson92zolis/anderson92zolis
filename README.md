@@ -55,7 +55,8 @@ Passionate Change Agent for digital transformation and backenddeveloper with Jav
 
 ##  React in IT Academy
 
-- [S1.1. HTML i CSS amb Flex](https://github.com/anderson92zolis/Tasca_S1.1_Layout): S1.1. HTML i CSS amb Flex: Layout that must work both on desktop, mobile and tablet.
+- [S1.1. HTML i CSS amb Flex](https://github.com/anderson92zolis/Tasca_S1.1_Layout): Layout that must work both on desktop, mobile and tablet.
+- [S1.2.-Bootstrap-SASS](https://github.com/anderson92zolis/S1.2.-Bootstrap-SASS):Landing page using SASS and Bootstrap 5.
 
 <br />
 
