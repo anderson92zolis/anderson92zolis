@@ -55,6 +55,7 @@ Passionate backend developer with experience in chemical engineering and quality
 ### Agile Methodology
 ![SCRUM](https://img.shields.io/badge/SCRUM-6DB33F?style=for-the-badge&logo=agile&logoColor=white)
 
+<br />
 
 ## Learning Journey
 Currently, I am expanding my skills in the following areas:
@@ -80,9 +81,11 @@ Feel free to explore the repository to learn more about the project and the tech
 - [Project 7: Customers & Frauds Microservices architecture](https://github.com/anderson92zolis/microservicesAmigosCode): This project provides a comprehensive overview of the microservices architecture and how to build microservices using various technologies, including Docker, Eureka, OpenFeign, and Zipkin. and implementing of 3 real-world microservices, Clients, Customer, Fraud, Notification and Eureka-server.
 - [Project 8: Shopping microservices](https://github.com/anderson92zolis/MicorserviciosAplicaci-nEscalable): Design and implement several independent microservices that will work together to form a functional system. We will explore key concepts such as modularity, business logic decomposition and communication between microservices. In addition, we will show you how to take advantage of Spring Boot features, such as dependency injection and automatic configuration management, to streamline development and improve the efficiency of your application.
 
+<br />
+
 ## Full stack developer CEIF GROUP
 
-
+<br />
 
 ##  React Dr Angela Yu
 
