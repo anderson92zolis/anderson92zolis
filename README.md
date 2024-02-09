@@ -69,15 +69,6 @@ Feel free to explore the repository to learn more about the project and the tech
 
 <br />
 
-
-
-
-
-
-
-
-
-
 ## Projects with Java  & Spring Frameworks
 
 - [Project 1: Microservices with Spring Boot to e-commerce platform](https://github.com/anderson92zolis/ecommerceChallenge): You are tasked with designing a microservices architecture for an e-commerce platform. The platform should handle product listings, user accounts, order processing, and payment processing. Each of these functionalities should be implemented as separate microservices.
@@ -88,6 +79,8 @@ Feel free to explore the repository to learn more about the project and the tech
 - [Project 6: Students & Schools Microservices architecture with Spring boot 3 ](https://github.com/anderson92zolis/AliMicroservice): Explore essential concepts such as API Gateway, Config Server, Discovery Server, and hands-on implementation of two real-world microservices, Student and School.
 - [Project 7: Customers & Frauds Microservices architecture](https://github.com/anderson92zolis/microservicesAmigosCode): This project provides a comprehensive overview of the microservices architecture and how to build microservices using various technologies, including Docker, Eureka, OpenFeign, and Zipkin. and implementing of 3 real-world microservices, Clients, Customer, Fraud, Notification and Eureka-server.
 - [Project 8: Shopping microservices](https://github.com/anderson92zolis/MicorserviciosAplicaci-nEscalable): Design and implement several independent microservices that will work together to form a functional system. We will explore key concepts such as modularity, business logic decomposition and communication between microservices. In addition, we will show you how to take advantage of Spring Boot features, such as dependency injection and automatic configuration management, to streamline development and improve the efficiency of your application.
+
+## Full stack developer CEIF GROUP
 
 
 
@@ -107,6 +100,7 @@ Feel free to explore the repository to learn more about the project and the tech
 - [S1.2.-Bootstrap-SASS](https://github.com/anderson92zolis/S1.2.-Bootstrap-SASS):Landing page using SASS and Bootstrap 5.
 
 <br />
+
 
 
 ## 🏆🥇 Hackathons
